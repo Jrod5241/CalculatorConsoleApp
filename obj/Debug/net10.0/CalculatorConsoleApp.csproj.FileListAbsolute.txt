@@ -1,0 +1,14 @@
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/bin/Debug/net10.0/CalculatorConsoleApp
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/bin/Debug/net10.0/CalculatorConsoleApp.deps.json
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/bin/Debug/net10.0/CalculatorConsoleApp.runtimeconfig.json
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/bin/Debug/net10.0/CalculatorConsoleApp.dll
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/bin/Debug/net10.0/CalculatorConsoleApp.pdb
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/obj/Debug/net10.0/CalculatorConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/obj/Debug/net10.0/CalculatorConsoleApp.AssemblyInfoInputs.cache
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/obj/Debug/net10.0/CalculatorConsoleApp.AssemblyInfo.cs
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/obj/Debug/net10.0/CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/obj/Debug/net10.0/CalculatorConsoleApp.dll
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/obj/Debug/net10.0/refint/CalculatorConsoleApp.dll
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/obj/Debug/net10.0/CalculatorConsoleApp.pdb
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/obj/Debug/net10.0/CalculatorConsoleApp.genruntimeconfig.cache
+/Users/jaredrodriguez/Documents/C#Dev/C#CalcApp/CalculatorConsoleApp/obj/Debug/net10.0/ref/CalculatorConsoleApp.dll
