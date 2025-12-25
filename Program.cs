@@ -91,7 +91,7 @@ while (!operators.Contains(userInput))
 {
     System.Console.WriteLine("Which operation would you like to perform? (type one)");
 
-    userInput = Console.ReadLine();
+    userInput = Console.ReadLine()!;
 
     if (!operators.Contains(userInput))
         System.Console.WriteLine($"Value '{userInput}' is not a valid operation. Please select a valid operation.");
